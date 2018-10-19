@@ -1,0 +1,60 @@
+/* 
+    Document   : cadastro
+    Created on : 24/05/2014, 17:16:21
+    Author     : Wilian Cieslak
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+html, body{
+    /*    background-color: #9acfea;*/
+    /*background-color: #ccccff;*/
+    background-color: #D0D0D0;
+}
+
+#container{
+    padding-top: 100px;
+    width: 500px;
+    float: right;
+    margin-right: 85px;
+}
+
+h2{
+    text-align: center;
+}
+
+#salvar{
+    width: 100%;
+}
+
+#divConteudo{
+    float: left;
+    padding-top: 100px;
+    margin-left: 80px;
+}
+
+h3{
+    padding-top: 15px;
+}
+
+#footer{
+    text-align: center;
+}
+
+#logo_caneca{
+    clear: both;
+    padding-left: 50pc;
+    padding-top: 30px;
+}
+
+#caneca_form{
+    margin-top: 300px;
+    float: right;
+    margin-right: 500px;
+    with: 200px;
+    height: 270px;
+}
